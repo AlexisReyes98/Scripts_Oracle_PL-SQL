@@ -1,6 +1,6 @@
 # Scripts_Oracle_PL-SQL
 
-UEA: Base de Datos Avanzadas
+UEA: Bases de Datos Avanzadas.
 
 Base de datos usada: Oracle SQL
 
